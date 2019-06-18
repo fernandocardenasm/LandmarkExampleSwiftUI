@@ -34,6 +34,7 @@
 		A4B00C3522B7F08F00C8F2E7 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4B00C3422B7F08F00C8F2E7 /* Data.swift */; };
 		A4B00C3722B820D800C8F2E7 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4B00C3622B820D800C8F2E7 /* LandmarkList.swift */; };
 		A4B00C3B22B8DAAD00C8F2E7 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4B00C3A22B8DAAD00C8F2E7 /* UserData.swift */; };
+		A4B00C4122B8E86400C8F2E7 /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4B00C4022B8E86400C8F2E7 /* CategoryHome.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -87,6 +88,7 @@
 		A4B00C3422B7F08F00C8F2E7 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		A4B00C3622B820D800C8F2E7 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 		A4B00C3A22B8DAAD00C8F2E7 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
+		A4B00C4022B8E86400C8F2E7 /* CategoryHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryHome.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,6 +143,7 @@
 				A4B00C1922B7EFF000C8F2E7 /* Resources */,
 				A4B00BE322B7E2B300C8F2E7 /* AppDelegate.swift */,
 				A4B00BE522B7E2B300C8F2E7 /* SceneDelegate.swift */,
+				A4B00C4022B8E86400C8F2E7 /* CategoryHome.swift */,
 				A4B00BE722B7E2B300C8F2E7 /* LandmarkDetail.swift */,
 				A4B00C1322B7E4AA00C8F2E7 /* CircleImage.swift */,
 				A4B00C1522B7E64200C8F2E7 /* MapView.swift */,
@@ -357,6 +360,7 @@
 				A4B00BE422B7E2B300C8F2E7 /* AppDelegate.swift in Sources */,
 				A4B00C1422B7E4AA00C8F2E7 /* CircleImage.swift in Sources */,
 				A4B00C3B22B8DAAD00C8F2E7 /* UserData.swift in Sources */,
+				A4B00C4122B8E86400C8F2E7 /* CategoryHome.swift in Sources */,
 				A4B00C1622B7E64200C8F2E7 /* MapView.swift in Sources */,
 				A4B00BE622B7E2B300C8F2E7 /* SceneDelegate.swift in Sources */,
 				A4B00BE822B7E2B300C8F2E7 /* LandmarkDetail.swift in Sources */,
